@@ -33,6 +33,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Drishti-1912/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Drishti-1912/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Drishti-1912/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
