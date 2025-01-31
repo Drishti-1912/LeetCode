@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Drishti-1912/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Drishti-1912/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Drishti-1912/LeetCode/tree/master/0125-valid-palindrome) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
