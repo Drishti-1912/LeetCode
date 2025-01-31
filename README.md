@@ -18,12 +18,14 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Drishti-1912/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Drishti-1912/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Drishti-1912/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
