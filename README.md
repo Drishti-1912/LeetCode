@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Drishti-1912/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Drishti-1912/LeetCode/tree/master/0015-3sum) |
+| [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Drishti-1912/LeetCode/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
