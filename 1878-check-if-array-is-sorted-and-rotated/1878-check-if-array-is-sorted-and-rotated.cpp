@@ -1,23 +1,18 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
+        int pivot;
         int n = nums.size();
-        if (n <= 1) return true;
-
-        int inversionCount = 0;
-
-        // For every pair, count the number of inversions.
-        for (int i = 1; i < n; ++i) {
-            if (nums[i] < nums[i - 1]) {
-                ++inversionCount;
+        for (pivot = 0; nums[(pivot + 1) % n] >= nums[pivot % n] && pivot < n ; pivot++) {
+            
+        }
+        pivot++;
+        pivot %= n;
+        for (int k = 0; k < n - 1; k++) {
+            if (nums[(pivot + k + 1) % n] < nums[(pivot + k) % n]) {
+                return false;
             }
         }
-
-        // Also check between the last and the first element due to rotation
-        if (nums[0] < nums[n - 1]) {
-            ++inversionCount;
-        }
-
-        return inversionCount <= 1;
+        return true;
     }
-};
+}; 
