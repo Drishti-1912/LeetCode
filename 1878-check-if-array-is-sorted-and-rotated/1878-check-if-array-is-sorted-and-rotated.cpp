@@ -1,28 +1,23 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        int size = nums.size();
+        int n = nums.size();
+        if (n <= 1) return true;
 
-        // Create a sorted copy of the array
-        vector<int> sortedNums = nums;
-        sort(sortedNums.begin(), sortedNums.end());
+        int inversionCount = 0;
 
-        // Compare the original array with the sorted array, considering all
-        // possible rotations
-        for (int rotationOffset = 0; rotationOffset < size; ++rotationOffset) {
-            bool isMatch = true;
-            for (int index = 0; index < size; ++index) {
-                if (nums[(rotationOffset + index) % size] !=
-                    sortedNums[index]) {
-                    isMatch = false;
-                    break;
-                }
-            }
-            if (isMatch) {
-                return true;
+        // For every pair, count the number of inversions.
+        for (int i = 1; i < n; ++i) {
+            if (nums[i] < nums[i - 1]) {
+                ++inversionCount;
             }
         }
 
-        return false;
+        // Also check between the last and the first element due to rotation
+        if (nums[0] < nums[n - 1]) {
+            ++inversionCount;
+        }
+
+        return inversionCount <= 1;
     }
 };
