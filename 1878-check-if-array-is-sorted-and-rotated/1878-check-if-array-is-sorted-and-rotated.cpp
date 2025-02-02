@@ -1,37 +1,28 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        int n = nums.size();
+        int size = nums.size();
 
-        // Construct the rotated array
-        vector<int> checkSorted(n);
+        // Create a sorted copy of the array
+        vector<int> sortedNums = nums;
+        sort(sortedNums.begin(), sortedNums.end());
 
-        // Iterate through all possible rotation offsets
-        for (int rotationOffset = 0; rotationOffset < n; ++rotationOffset) {
-            int currIndex = 0;
-            for (int index = rotationOffset; index < n; ++index) {
-                checkSorted[currIndex++] = (nums[index]);
-            }
-            for (int index = 0; index < rotationOffset; ++index) {
-                checkSorted[currIndex++] = (nums[index]);
-            }
-
-            // Check if the constructed array is sorted
-            bool isSorted = true;
-            for (int index = 0; index < n - 1; ++index) {
-                if (checkSorted[index] > checkSorted[index + 1]) {
-                    isSorted = false;
+        // Compare the original array with the sorted array, considering all
+        // possible rotations
+        for (int rotationOffset = 0; rotationOffset < size; ++rotationOffset) {
+            bool isMatch = true;
+            for (int index = 0; index < size; ++index) {
+                if (nums[(rotationOffset + index) % size] !=
+                    sortedNums[index]) {
+                    isMatch = false;
                     break;
                 }
             }
-
-            // If sorted, return true
-            if (isSorted) {
+            if (isMatch) {
                 return true;
             }
         }
 
-        // If no rotation makes the array sorted, return false
         return false;
     }
 };
