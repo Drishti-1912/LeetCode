@@ -8,6 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
@@ -77,3 +78,5 @@ public:
         return ptr->next;
     }
 };
+
+//can also be done using priority queue
