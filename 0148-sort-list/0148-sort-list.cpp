@@ -16,11 +16,10 @@ public:
         if(head == NULL || head ->next == NULL)
             return head;
         
-        
         ListNode *temp = NULL;
         ListNode *slow = head;
         ListNode *fast = head;
-        
+
         // 2 pointer appraoach / turtle-hare Algorithm (Finding the middle element)
         while(fast !=  NULL && fast -> next != NULL)
         {
@@ -35,9 +34,9 @@ public:
         ListNode* l2 = sortList(slow);    //right half recursive call
         
         return mergelist(l1, l2);         //mergelist Function call
-            
+
     }
-    
+
     //MergeSort Function O(n*logn)
     ListNode* mergelist(ListNode *l1, ListNode *l2)
     {
@@ -58,25 +57,22 @@ public:
             }
         
         curr = curr ->next;
-        
-        }
-        
+        }  
         //for unqual length linked list
         
         if(l1 != NULL)
         {
             curr -> next = l1;
             l1 = l1->next;
-        }
-        
+        } 
         if(l2 != NULL)
         {
             curr -> next = l2;
             l2 = l2 ->next;
         }
-        
         return ptr->next;
     }
 };
+
 
 //can also be done using priority queue
