@@ -37,6 +37,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Drishti-1912/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
@@ -94,6 +95,7 @@
 | [0191-number-of-1-bits](https://github.com/Drishti-1912/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/Drishti-1912/LeetCode/tree/master/0372-super-pow) |
+| [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
@@ -120,6 +122,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Drishti-1912/LeetCode/tree/master/0189-rotate-array) |
 | [0372-super-pow](https://github.com/Drishti-1912/LeetCode/tree/master/0372-super-pow) |
+| [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
 ## Design
 |  |
 | ------- |
