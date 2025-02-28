@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/Drishti-1912/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Drishti-1912/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Drishti-1912/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
@@ -54,6 +55,7 @@
 | [0148-sort-list](https://github.com/Drishti-1912/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Drishti-1912/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -110,4 +112,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drishti-1912/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
