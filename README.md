@@ -34,6 +34,7 @@
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Drishti-1912/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Drishti-1912/LeetCode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Drishti-1912/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -93,6 +94,7 @@
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Drishti-1912/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Drishti-1912/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0218-the-skyline-problem](https://github.com/Drishti-1912/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/Drishti-1912/LeetCode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Drishti-1912/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/Drishti-1912/LeetCode/tree/master/0218-the-skyline-problem) |
 ## Tree
 |  |
 | ------- |
@@ -192,4 +195,20 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Drishti-1912/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Drishti-1912/LeetCode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Drishti-1912/LeetCode/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Drishti-1912/LeetCode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Drishti-1912/LeetCode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
