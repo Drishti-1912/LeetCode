@@ -87,6 +87,7 @@
 | [0148-sort-list](https://github.com/Drishti-1912/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Drishti-1912/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Drishti-1912/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Drishti-1912/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Drishti-1912/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
