@@ -47,6 +47,7 @@
 | [0146-lru-cache](https://github.com/Drishti-1912/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Drishti-1912/LeetCode/tree/master/0217-contains-duplicate) |
+| [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Drishti-1912/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Drishti-1912/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
+| [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drishti-1912/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Drishti-1912/LeetCode/tree/master/0125-valid-palindrome) |
+| [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Merge Sort
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drishti-1912/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +131,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
