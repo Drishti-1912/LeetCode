@@ -27,6 +27,7 @@
 | [0015-3sum](https://github.com/Drishti-1912/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Drishti-1912/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Drishti-1912/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Drishti-1912/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Drishti-1912/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Drishti-1912/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Drishti-1912/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Drishti-1912/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
