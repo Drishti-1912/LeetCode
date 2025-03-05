@@ -134,6 +134,7 @@
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Drishti-1912/LeetCode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Drishti-1912/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Design
 |  |
 | ------- |
