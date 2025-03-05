@@ -234,4 +234,8 @@
 |  |
 | ------- |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Drishti-1912/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Drishti-1912/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
