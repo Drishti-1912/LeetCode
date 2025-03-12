@@ -1,11 +1,37 @@
 class Solution {
+private:
+    int lowerBound(vector<int> &nums){
+        int start=0, end=nums.size()-1;
+        int index=nums.size();
+        while(start<=end){
+            int mid=(start+end)/2;
+            if(nums[mid]<0){
+                start=mid+1;
+            }else if(nums[mid]>=0){
+                end=mid-1;
+                index=mid;
+            }
+        }
+        return index;
+    }
+    int upperBound(vector<int> &nums){
+        int start=0, end=nums.size()-1;
+        int index=nums.size();
+        while(start<=end){
+            int mid=(start+end)/2;
+            if(nums[mid]<=0){
+                start=mid+1;
+            }else if(nums[mid]>=0){
+                end=mid-1;
+                index=mid;
+            }
+        }
+        return index;
+    }
 public:
     int maximumCount(vector<int>& nums) {
-        int pos=0, neg=0;
-        for(int i=0;i<nums.size();i++){
-            if (nums[i]>0) pos++;
-            else if (nums[i]<0) neg++;
-        }
-        return max(pos,neg);
+        int posCount= nums.size() - upperBound(nums);
+        int negCount = lowerBound(nums);
+        return max(posCount,negCount);
     }
 };
