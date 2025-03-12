@@ -45,6 +45,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Drishti-1912/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Drishti-1912/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Drishti-1912/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Drishti-1912/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Drishti-1912/LeetCode/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Drishti-1912/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
