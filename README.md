@@ -72,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/Drishti-1912/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Drishti-1912/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Drishti-1912/LeetCode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Drishti-1912/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drishti-1912/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Drishti-1912/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Drishti-1912/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Merge Sort
