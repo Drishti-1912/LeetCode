@@ -97,6 +97,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
+| [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Drishti-1912/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Drishti-1912/LeetCode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Drishti-1912/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Design
 |  |
