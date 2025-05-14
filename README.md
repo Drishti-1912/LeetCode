@@ -61,6 +61,7 @@
 | [0141-linked-list-cycle](https://github.com/Drishti-1912/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Drishti-1912/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Drishti-1912/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Drishti-1912/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -78,6 +79,7 @@
 | [0148-sort-list](https://github.com/Drishti-1912/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Drishti-1912/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Drishti-1912/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Drishti-1912/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Drishti-1912/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Drishti-1912/LeetCode/tree/master/0372-super-pow) |
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
