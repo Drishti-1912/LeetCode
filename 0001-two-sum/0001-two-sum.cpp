@@ -1,15 +1,19 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int,int> mpp;
-       for(int i=0;i<nums.size();i++){
-        int curr=nums[i];
-        int needed=target-curr;
+       vector<pair<int,int>> numWithIndex;
+        for(int i=0;i<nums.size();i++){
+            numWithIndex.push_back({nums[i],i});
+        }
+        sort(numWithIndex.begin(),numWithIndex.end());
 
-        if (mpp.find(needed) != mpp.end()){ //“If the number we need to complete the target sum is already in the map, then return YES because a valid pair exists.”
-        return {mpp[needed],i};
-       }
-       mpp[curr]=i; //store current number in the map
+        int left=0, right=nums.size()-1;
+        while(left<right){
+            int sum=numWithIndex[left].first + numWithIndex[right].first;
+
+            if(sum==target) return {numWithIndex[left].second ,numWithIndex[right].second};
+            else if(sum<target) left++;
+            else right--;
         }
     return {-1,-1};
     }
