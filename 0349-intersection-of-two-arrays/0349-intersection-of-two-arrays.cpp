@@ -8,7 +8,6 @@ public:
                 result.insert(n2);
             }
         }
-
         return vector<int> (result.begin(),result.end());
     }
 };
