@@ -91,6 +91,7 @@
 | [0283-move-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@
 | [0045-jump-game-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Drishti-1912/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Drishti-1912/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Greedy
 |  |
@@ -150,6 +152,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drishti-1912/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Drishti-1912/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Drishti-1912/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
