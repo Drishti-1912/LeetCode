@@ -46,6 +46,7 @@
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Drishti-1912/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
@@ -67,6 +68,7 @@
 | [0202-happy-number](https://github.com/Drishti-1912/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Drishti-1912/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Two Pointers
@@ -88,6 +90,7 @@
 | [0202-happy-number](https://github.com/Drishti-1912/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Drishti-1912/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -99,6 +102,7 @@
 | [0169-majority-element](https://github.com/Drishti-1912/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Drishti-1912/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +190,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Drishti-1912/LeetCode/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Drishti-1912/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Drishti-1912/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
