@@ -49,6 +49,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Drishti-1912/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Drishti-1912/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Drishti-1912/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -92,6 +93,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Drishti-1912/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
+| [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -104,6 +106,7 @@
 | [0217-contains-duplicate](https://github.com/Drishti-1912/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [0045-jump-game-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
