@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Drishti-1912/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Drishti-1912/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Drishti-1912/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Drishti-1912/LeetCode/tree/master/0023-merge-k-sorted-lists) |
@@ -22,6 +23,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Drishti-1912/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Drishti-1912/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Array
@@ -178,6 +180,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Drishti-1912/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Drishti-1912/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Drishti-1912/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
