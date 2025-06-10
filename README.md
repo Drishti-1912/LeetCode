@@ -38,6 +38,7 @@
 | [0016-3sum-closest](https://github.com/Drishti-1912/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Drishti-1912/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Drishti-1912/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Drishti-1912/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Drishti-1912/LeetCode/tree/master/0053-maximum-subarray) |
@@ -91,6 +92,7 @@
 | [0018-4sum](https://github.com/Drishti-1912/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Drishti-1912/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Drishti-1912/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Drishti-1912/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Drishti-1912/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Drishti-1912/LeetCode/tree/master/0125-valid-palindrome) |
