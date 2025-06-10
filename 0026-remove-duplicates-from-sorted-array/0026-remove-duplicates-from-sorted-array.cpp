@@ -1,16 +1,15 @@
 class Solution {
 public:
-//two pointer approach
     int removeDuplicates(vector<int>& nums) {
-        if (nums.size() == 0) return 0;
-
-        int i = 0;  // First pointer
-        for (int j = 1; j < nums.size(); j++) {
-            if (nums[i] != nums[j]) {
-                i++;
-                nums[i] = nums[j];
-            }
+        set<int> st;
+        for(int i=0;i<nums.size();i++){
+            st.insert(nums[i]);
         }
-        return i + 1;
+        int index=0;
+        for(auto it:st){
+            nums[index]=it;
+            index++;
+        }
+        return index;
     }
 };
