@@ -61,6 +61,7 @@
 | [0792-binary-search](https://github.com/Drishti-1912/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Drishti-1912/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Drishti-1912/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -114,6 +115,7 @@
 | [0443-string-compression](https://github.com/Drishti-1912/LeetCode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Drishti-1912/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -129,6 +131,7 @@
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Drishti-1912/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
