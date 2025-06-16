@@ -119,6 +119,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/Drishti-1912/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3195-separate-black-and-white-balls](https://github.com/Drishti-1912/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/Drishti-1912/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Merge Sort
 |  |
 | ------- |
