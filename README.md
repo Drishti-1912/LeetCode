@@ -118,6 +118,7 @@
 | [0941-sort-array-by-parity](https://github.com/Drishti-1912/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Drishti-1912/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Merge Sort
 |  |
 | ------- |
