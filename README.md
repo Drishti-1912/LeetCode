@@ -113,6 +113,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Drishti-1912/LeetCode/tree/master/0443-string-compression) |
+| [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Drishti-1912/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -187,6 +188,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Drishti-1912/LeetCode/tree/master/0443-string-compression) |
+| [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Drishti-1912/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -295,6 +297,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Drishti-1912/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Drishti-1912/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Binary Indexed Tree
 |  |
@@ -336,4 +339,8 @@
 | [1827-invalid-tweets](https://github.com/Drishti-1912/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Drishti-1912/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Drishti-1912/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
