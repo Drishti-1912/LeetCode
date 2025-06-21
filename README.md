@@ -187,6 +187,7 @@
 | [0125-valid-palindrome](https://github.com/Drishti-1912/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Drishti-1912/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Drishti-1912/LeetCode/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Drishti-1912/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -208,6 +209,7 @@
 | [0231-power-of-two](https://github.com/Drishti-1912/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Drishti-1912/LeetCode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Drishti-1912/LeetCode/tree/master/0372-super-pow) |
+| [0412-fizz-buzz](https://github.com/Drishti-1912/LeetCode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -342,5 +344,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Drishti-1912/LeetCode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
