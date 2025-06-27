@@ -115,6 +115,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Drishti-1912/LeetCode/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/Drishti-1912/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -146,6 +147,7 @@
 | [0053-maximum-subarray](https://github.com/Drishti-1912/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Drishti-1912/LeetCode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Drishti-1912/LeetCode/tree/master/0647-palindromic-substrings) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Drishti-1912/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Greedy
 |  |
@@ -192,6 +194,7 @@
 | [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Drishti-1912/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Drishti-1912/LeetCode/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/Drishti-1912/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Drishti-1912/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
