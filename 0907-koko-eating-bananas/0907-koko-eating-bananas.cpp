@@ -8,16 +8,16 @@ public:
             int mid=low+(high-low)/2;
             //find total hours needed for each pile
 
-            int hours=0;
+            double hours=0;
             for(int p:piles){
-                hours+=ceil( double(p) / double(mid) );
+                hours+=ceil((double)p / (double) mid );
             }
-
-            if(hours==h){
-                    ans=mid;
-                    high=mid-1;
-                    // break;
-                }else if(hours<h){
+            if(hours == h){
+                ans = mid;
+                high = mid-1;
+            }
+            else if(hours<=h){
+                ans = mid;
                     high=mid-1;
                 }else{
                     low=mid+1;
