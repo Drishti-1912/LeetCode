@@ -70,6 +70,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Drishti-1912/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Drishti-1912/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Drishti-1912/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Drishti-1912/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Drishti-1912/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -89,6 +90,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Drishti-1912/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Drishti-1912/LeetCode/tree/master/0146-lru-cache) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
