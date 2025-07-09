@@ -1,26 +1,22 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        string result;
-        int balance=0;
+        stack<char> st;
+        string ans;
         for(int i=0;i<s.size();i++){
             if(s[i]=='('){
-                if(balance>0){
-                result+=s[i];
+                if(st.size()>0){
+                    ans+=s[i];
                 }
+                st.push(s[i]);
+            }else{
+                st.pop();
+                if(st.size()>0){
 
-                balance++;     // Increase the balance for '('
-
-                }else{
-                    balance--;       // Decrease the balance for ')'
-
-                // If balance is greater than 0, it means this ')' is not an
-                // outermost parenthesis
-                    if(balance>0){
-                    result+=s[i];  // Add the character to the result  
-                    }
+                    ans+=s[i];
                 }
             }
-        return result; 
+        }
+    return ans;
     }
 };
