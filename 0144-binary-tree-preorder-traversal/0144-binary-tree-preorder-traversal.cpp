@@ -11,15 +11,28 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* node,vector<int> &res){
-        if(!node) return;
-        res.push_back(node->val);
-        dfs(node->left,res);
-        dfs(node->right,res);
-    }
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> res;
-        dfs(root,res);
-        return res;
+        vector<int> ans;  //we need to return a vector
+
+        if(root==NULL) return ans;  //base case
+
+        stack<TreeNode*> st;        //using stack
+        st.push(root);
+        
+        while(!st.empty()){
+
+            root=st.top();           //top wala element pop krte rho
+            st.pop();
+
+            ans.push_back(root->val);
+
+            if(root->right!=nullptr){  //right
+                st.push(root->right);
+            }
+            if(root->left!=nullptr){   //then left
+                st.push(root->left);
+            }
+        }
+    return ans;
     }
 };
