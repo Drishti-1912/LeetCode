@@ -74,6 +74,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Drishti-1912/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Drishti-1912/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Drishti-1912/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2689-rearranging-fruits](https://github.com/Drishti-1912/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1873-longest-nice-substring](https://github.com/Drishti-1912/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2689-rearranging-fruits](https://github.com/Drishti-1912/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Drishti-1912/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2689-rearranging-fruits](https://github.com/Drishti-1912/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Drishti-1912/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2689-rearranging-fruits](https://github.com/Drishti-1912/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3195-separate-black-and-white-balls](https://github.com/Drishti-1912/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
