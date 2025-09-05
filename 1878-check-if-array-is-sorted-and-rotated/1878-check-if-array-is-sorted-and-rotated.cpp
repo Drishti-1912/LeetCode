@@ -1,18 +1,13 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        int pivot;
-        int n = nums.size();
-        for (pivot = 0; nums[(pivot + 1) % n] >= nums[pivot % n] && pivot < n ; pivot++) {
-            
+        int drops=0;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            if(nums[i]>nums[(i+1)%n]){
+                drops++;
+            }   
         }
-        pivot++;
-        pivot %= n;
-        for (int k = 0; k < n - 1; k++) {
-            if (nums[(pivot + k + 1) % n] < nums[(pivot + k) % n]) {
-                return false;
-            }
-        }
-        return true;
+    return drops<=1;
     }
-}; 
+};
