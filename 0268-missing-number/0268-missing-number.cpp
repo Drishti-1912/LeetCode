@@ -1,12 +1,19 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-         int xor1=0,xor2=0;
-    for(int i=0;i<nums.size();i++){
-        xor2=xor2^nums[i];
-        xor1=xor1^(i+1);
-    }
-    // xor1=xor1^nums.size();
-    return (xor1^xor2);
+        int n = nums.size();
+
+        // check numbers from 0 to n
+        for (int i = 0; i <= n; i++) {
+            bool found = false;
+            for (int j = 0; j < n; j++) {
+                if (nums[j] == i) {
+                    found = true;
+                    break;
+                }
+            }
+            if (!found) return i;
+        }
+        return -1; // should never reach here
     }
 };
