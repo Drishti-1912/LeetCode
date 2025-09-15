@@ -1,15 +1,11 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        for(int i=0;i<nums.size();i++){
-            int cnt=0;                 //imp
-            for(int j=0;j<nums.size();j++){
-                if(nums[j]==nums[i]){
-                    cnt++;
-                }
-            }
-            if(cnt==1) return nums[i];
+        int XOR=0;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            XOR=XOR^nums[i];
         }
-    return -1; 
+    return XOR;
     }
 };
