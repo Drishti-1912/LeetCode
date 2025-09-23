@@ -1,14 +1,14 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        map<int,int> sorted;
+        map<int,int> freq;
         for(int x:nums){
-            sorted[x]++;
+            freq[x]++;
         }
         int idx=0;
-        for(auto &p:sorted){
-            for(int i=0;i<p.second;i++){
-                nums[idx++] = p.first;
+        for(auto &it:freq){
+            for(int i=0;i<it.second;i++){
+                nums[idx++] = it.first;
             }
         }
     }
