@@ -72,6 +72,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Drishti-1912/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Drishti-1912/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Drishti-1912/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Drishti-1912/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Drishti-1912/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Drishti-1912/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -130,6 +131,7 @@
 | [0941-sort-array-by-parity](https://github.com/Drishti-1912/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Drishti-1912/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-1912/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Drishti-1912/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Drishti-1912/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Drishti-1912/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Drishti-1912/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -378,4 +380,5 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Drishti-1912/LeetCode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Drishti-1912/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
