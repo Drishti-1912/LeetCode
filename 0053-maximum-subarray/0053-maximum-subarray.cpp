@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
+    int maxSubArray(vector<int>& nums) {  //Kadane's Algorithm
         long long maxi=LONG_MIN;
         long long sum=0;
         for(int i=0;i<nums.size();i++){
