@@ -3,19 +3,17 @@ public:
     int numWaterBottles(int numBottles, int numExchange) {
         int consumedBottles = 0;
 
-        while (numBottles >= numExchange) {  //as long as you have enough bottles to exchange.
+        while (numBottles >= numExchange) {
+            // Maximum number of times we can consume numExchange
+            // number of bottles using numBottles.
+            int K = numBottles / numExchange; //K is the number of times we can exchange bottles
 
-            /*You drink numExchange bottles in this round.
-            Add that to your total count of consumed bottles. */
-            consumedBottles += numExchange;
+            consumedBottles += numExchange * K;
+            numBottles -= numExchange * K;
 
-            numBottles -= numExchange; //Reduce the number of full bottles because you just drank them
-
-            // Exchange them for one full bottle.
-            numBottles++;
+            numBottles += K;
         }
 
-        // Total bottles drunk = bottles you drank during exchanges + the remaining bottles.
         return consumedBottles + numBottles;
     }
-};
+}; //Drink max possible at once 
