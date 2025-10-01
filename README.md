@@ -237,6 +237,7 @@
 | [0797-rabbits-in-forest](https://github.com/Drishti-1912/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0968-beautiful-array](https://github.com/Drishti-1912/LeetCode/tree/master/0968-beautiful-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Drishti-1912/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/Drishti-1912/LeetCode/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Drishti-1912/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Drishti-1912/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Design
@@ -384,5 +385,6 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Drishti-1912/LeetCode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1642-water-bottles](https://github.com/Drishti-1912/LeetCode/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Drishti-1912/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
