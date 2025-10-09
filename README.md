@@ -79,6 +79,7 @@
 | [2526-longest-increasing-subsequence-ii](https://github.com/Drishti-1912/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Drishti-1912/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2689-rearranging-fruits](https://github.com/Drishti-1912/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Drishti-1912/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -389,4 +390,9 @@
 | [0874-backspace-string-compare](https://github.com/Drishti-1912/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Drishti-1912/LeetCode/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Drishti-1912/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Drishti-1912/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Drishti-1912/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
