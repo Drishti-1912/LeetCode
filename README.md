@@ -165,6 +165,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Drishti-1912/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Drishti-1912/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Drishti-1912/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0972-knight-dialer](https://github.com/Drishti-1912/LeetCode/tree/master/0972-knight-dialer) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Drishti-1912/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Greedy
 |  |
